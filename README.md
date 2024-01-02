@@ -40,7 +40,7 @@ pnpm start
 3. Live 
 
 ```
-https://test-scandinaviatech.vercel.app/
+https://map-test-scandinaviatech-ju15.vercel.app/
 
 ```
 
